@@ -33,6 +33,7 @@ They disrupt a neighborhood's sense of community and lower property values. Ther
 The [Center for a Livable Future](https://clf.jhsph.edu/about-us/news/news-2012/new-improved-food-desert-map) defines food deserts: 
 - An area where the distance to a supermarket is more than one quarter of a mile
 - The median household income is at or below 185% of the Federal Poverty Level
-- Over 40% of households have no vehicle available <br>
+- Over 40% of households have no vehicle available 
+
 We were interested in this data because a food desert represents a location where resources are scarce and healthy habits are hard to maintain. This could possibly impact homicide rates in Baltimore.
 # Analysis
