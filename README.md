@@ -42,5 +42,9 @@ First, we conducted a multiple linear regression between all the variables to de
 
 The R squared from this initial analysis is around 70%, meaning that around 70% of the data can be displayed using this model. However, the only variables that are statistically significant with a p value of less than 0.05 are unemployment, % of area covered by food desert, and vacant lot density. 
 
-Then we modified our model to only include the statistically significant variables
+Then we modified our model to only include the statistically significant variables.
+![alt_text](https://github.com/AndrealZhang/Food_Deserts_and_Homicide_Rates_in_Baltimore_City/blob/master/final%20multiple%20regression.png)
+
+The R squared is around the same and the significance F decreased, meaning that there is a very high probability that unemployment, % of area covered by food desert, and vacant lot density impact the % of deaths due to homicides. 
+
 
