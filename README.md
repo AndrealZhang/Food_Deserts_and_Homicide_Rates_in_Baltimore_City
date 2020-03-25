@@ -58,3 +58,4 @@ Looking at the impact of the percent of area covered by food deserts on the perc
 Similarly, looking at the scatterplot of the impact of unemployment on the percent of deaths due to homicides, there is clearly a relationship between two variables as this model represents around 56% of the data.
 ![alt_text](https://github.com/AndrealZhang/Food_Deserts_and_Homicide_Rates_in_Baltimore_City/blob/master/unemploymentscatter.png)
 
+# Summary
