@@ -27,5 +27,12 @@ Percentage of population 16 years of age or older in the labor force that are un
 Two factors of special interest are vacant lot density and % of area covered by food desert.
 ## Vacant Lot Density
 We were interested in looking at the number of vacant lots in different neighborhoods in Baltimore. Vacant lots are small areas of land that are not being occupied or used. It is usually neglected and, in many cases, houses were on these lots, but they fell into disrepair and were demolished. 
+
 They disrupt a neighborhood's sense of community and lower property values. There are significantly more vacant lots in poorer neighborhoods, which could possibly contribute to higher homicide rates.
+## Percent of Area Covered by Food Desert
+The [Center for a Livable Future](https://clf.jhsph.edu/about-us/news/news-2012/new-improved-food-desert-map) defines food deserts: 
+- An area where the distance to a supermarket is more than one quarter of a mile
+- The median household income is at or below 185% of the Federal Poverty Level
+- Over 40% of households have no vehicle available
+We were interested in this data because a food desert represents a location where resources are scarce and healthy habits are hard to maintain. This could possibly impact homicide rates in Baltimore.
 
