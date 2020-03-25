@@ -37,3 +37,8 @@ The [Center for a Livable Future](https://clf.jhsph.edu/about-us/news/news-2012/
 
 We were interested in this data because a food desert represents a location where resources are scarce and healthy habits are hard to maintain. This could possibly impact homicide rates in Baltimore.
 # Analysis
+First, we conducted a multiple linear regression between all the variables to determine which variables were statistically significant. 
+
+
+
+The R squared from this initial analysis is around 70%, meaning that around 70% of the data can be displayed using this model. However, the only variables that are statistically significant with a p value of less than 0.05 are unemployment, % of area covered by food desert, and vacant lot density. 
