@@ -12,14 +12,14 @@ We chose to analyze the [2017 Neighborhood Health Profile Data](https://health.b
 
 We looked at these factors: 
 - Median household income <br>
-Median annual household income, according to the Baltimore Neighborhood Indicators Alliance
+  Median annual household income, according to the Baltimore Neighborhood Indicators Alliance
 - % living below Federal Poverty Level <br>
-Percentage of families that earned less than the Federal Poverty Level in the past 12 months
+  Percentage of families that earned less than the Federal Poverty Level in the past 12 months
 - % of Adults with Less than a HS Diploma <br>
-Percentage of adults 25 years of age or older with less than a high school diploma
+  Percentage of adults 25 years of age or older with less than a high school diploma
 - % of Area Covered by Food Desert <br>
-Percentage of land area covered by food desert, as defined by the Center for a Livable Future
+  Percentage of land area covered by food desert, as defined by the Center for a Livable Future
 - Vacant Lot Density <br>
-Number of vacant lots per 10,000 housing units
+  Number of vacant lots per 10,000 housing units
 - Unemployment <br>
-Percentage of population 16 years of age or older in the labor force that are unemployed
+  Percentage of population 16 years of age or older in the labor force that are unemployed
