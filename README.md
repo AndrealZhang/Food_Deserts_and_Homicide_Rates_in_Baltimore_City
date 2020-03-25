@@ -52,7 +52,7 @@ there is a very low correlation between vacant lot density and % of deaths due t
 Only around 6% of the data can be explained by this model, meaning that vacant lot density does not have a significant effect on homicide rates.
 
 Next, we can analyze another scatterplot.
-
+![alt_text](https://github.com/AndrealZhang/Food_Deserts_and_Homicide_Rates_in_Baltimore_City/blob/master/fooddesertscatter.png)
 Looking at the impact of the percent of area covered by food deserts on the percent of deaths due to homicides, around 36% of the data can be represented by this model. Although this number may seem small, it is important to remember that there are multiple factors that can impact homicide rates and one factor affecting around 36% of the homicide rates is significant. 
 
 
