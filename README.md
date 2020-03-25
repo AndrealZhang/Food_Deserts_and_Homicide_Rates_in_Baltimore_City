@@ -45,6 +45,8 @@ The R squared from this initial analysis is around 70%, meaning that around 70% 
 Then we modified our model to only include the statistically significant variables.
 ![alt_text](https://github.com/AndrealZhang/Food_Deserts_and_Homicide_Rates_in_Baltimore_City/blob/master/final%20multiple%20regression.png)
 
-The R squared is around the same and the significance F decreased, meaning that there is a very high probability that unemployment, % of area covered by food desert, and vacant lot density impact the % of deaths due to homicides. 
+The R squared is around the same and the significance F decreased, meaning that there is a very high probability that unemployment, % of area covered by food desert, and vacant lot density impact the % of deaths due to homicides. However, looking at the correlation, 
+![alt_text](https://github.com/AndrealZhang/Food_Deserts_and_Homicide_Rates_in_Baltimore_City/blob/master/correlation.png)
+there is a very low correlation between vacant lot density and % of deaths due to homicides.
 
 
