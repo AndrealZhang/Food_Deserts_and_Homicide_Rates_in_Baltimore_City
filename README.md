@@ -47,6 +47,9 @@ Then we modified our model to only include the statistically significant variabl
 
 The R squared is around the same and the significance F decreased, meaning that there is a very high probability that unemployment, % of area covered by food desert, and vacant lot density impact the % of deaths due to homicides. However, looking at the correlation, 
 ![alt_text](https://github.com/AndrealZhang/Food_Deserts_and_Homicide_Rates_in_Baltimore_City/blob/master/correlation.png)
-there is a very low correlation between vacant lot density and % of deaths due to homicides.
+there is a very low correlation between vacant lot density and % of deaths due to homicides. This information is supported with this scatterplot: 
+
+Only around 6% of the data can be explained by this model, meaning that vacant lot density does not have a significant effect on homicide rates.
+
 
 
