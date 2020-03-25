@@ -11,7 +11,7 @@ Could food deserts be a cause of the high homicide rate in Baltimore?
 We chose to analyze the [2017 Neighborhood Health Profile Data](https://health.baltimorecity.gov/neighborhoods/neighborhood-health-profile-reports) from the Baltimore City Health Department. It is comprehensive and contains data about major health outcomes for 55 Community Statistical Areas in the city of Baltimore. Although this data is from 2017, it is still relevant because Baltimore has a long history of high homicide rates. 
 
 We looked at these factors: 
-- Median household income
+- Median household income <br>
 Median annual household income, according to the Baltimore Neighborhood Indicators Alliance
 - % living below Federal Poverty Level
 Percentage of families that earned less than the Federal Poverty Level in the past 12 months
