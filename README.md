@@ -1,4 +1,6 @@
 # The Impact of Food Deserts and Unemployment on Homicide Rates in Baltimore City
+Homicide has been linked to factors such as poverty and economic inequality. In 2019, there were [347 homicides in Baltimore](https://www.cnn.com/2019/12/31/americas/baltimore-2019-homicides/index.html), breaking the record for killings per capita. We wanted to analyze whether there are other significant variables more present in Baltimore that could lead to such a high homicide rate.
+
 What are the socioeconomic factors that affect Baltimore’s high homicide rate, and what actions can the local government take?
 
 After researching more about specific conditions in Baltimore, we found that [20 percent of Balitmore residents live in food deserts](https://www.umaryland.edu/gogreen/news/food/combating-the-urban-food-desert.php). A food desert is roughly defined as a location where there is no access to affordable nutritious foods like fruits, vegetables, and whole grains. Since a high population of Baltimore residents live in food deserts, we narrowed down our question:
@@ -17,7 +19,7 @@ More Food Deserts →  More Unhealthy Foods/Less Healthy Foods →  More Aggress
 
 
 # Significance
-Based on countless studies, homicide has been linked to factors such as poverty and economic inequality. Although the issue of homicides is not unique to any location, in 2019, there were [347 homicides in Baltimore](https://www.cnn.com/2019/12/31/americas/baltimore-2019-homicides/index.html), breaking the record for killings per capita. Since all cities across the nation have poverty and economic inequality, we wanted to analyze whether there are other significant variables more present in Baltimore that could lead to such a high homicide rate.
+Based on countless studies, homicide has been linked to factors such as poverty and economic inequality. In 2019, there were [347 homicides in Baltimore](https://www.cnn.com/2019/12/31/americas/baltimore-2019-homicides/index.html), breaking the record for killings per capita. Since all cities across the nation have poverty and economic inequality, we wanted to analyze whether there are other significant variables more present in Baltimore that could lead to such a high homicide rate.
 
 
 # Data
