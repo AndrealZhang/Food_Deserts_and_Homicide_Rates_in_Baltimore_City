@@ -76,5 +76,5 @@ Similarly, looking at the scatterplot of the impact of unemployment on the perce
 1. FOOD DESERT: Higher average percentage of food desert in certain neighborhoods in Baltimore, higher average percentage of deaths due to homicide in those neighborhoods
 2. UNEMPLOYMENT: Higher average of unemployment in certain neighborhoods in Baltimore, higher average percentage of deaths due to homicide in those neighborhoods
 
-# Implications
+# Future Plan
 
