@@ -8,9 +8,9 @@ After researching more about specific conditions in Baltimore, we found that [20
 Could food deserts be a cause of the high homicide rate in Baltimore and how can policymakers use this information to combat homicide rates?
 
 We analyzed several other factors, including more common factors such as unemployment, for comparison.
+
 ### Finding
-Higher % of area covered by food desert →  higher % of deaths due to homicide 
-More Food Deserts →  More Unhealthy Foods/Less Healthy Foods →  More Aggression, Stress, And Anxiety → More Homicides 
+Through our analysis, we found that in neighborhoods with a higher percentage of area covered by food desert, there was a higher percentage of deaths due to homicides. In areas of food deserts people are forced to eat more unhealthy foods because of issues such as accessibility and affordability; these unhealthy diets lead to more aggression and stress, ultimately linking to higher homicide rates. 
 
 ### Suggestion
 The Baltimore City Government should promote programs that help citizens afford healthy foods so that they can afford to eat healthier, thereby reducing aggression and stress and resulting in fewer homicides.
