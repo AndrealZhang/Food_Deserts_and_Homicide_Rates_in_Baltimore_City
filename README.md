@@ -13,7 +13,7 @@ Higher % of area covered by food desert →  higher % of deaths due to homicide
 More Food Deserts →  More Unhealthy Foods/Less Healthy Foods →  More Aggression, Stress, And Anxiety → More Homicides 
 
 ### Suggestion
-Government promotes programs that helps citizens afford healthy foods → citizens eat healtier → less aggression and stress → fewer homicides
+The Baltimore City Government should promote programs that help citizens afford healthy foods so that they can afford to eat healthier, thereby reducing aggression and stress and resulting in fewer homicides.
 
 # Significance
 As mentioned earlier, homicides in Baltimore are a deadly problem that is getting worse every year. However, another problem goes undercovered: food deserts. As mentioned earlier, citizens in the food deserts cannot access healthy foods and are forced to consume more unhealthy food options at corner stores and carry out restaurants. Healthy diets are important because they help our bodies to [manage the psychological changes caused by stress](https://www.bbcgoodfood.com/howto/guide/stress-diet-can-foods-help). On the other hand, [The Guardian](https://www.theguardian.com/lifeandstyle/wordofmouth/2013/apr/24/can-food-make-you-angry) notes that greater trans fatty acids from unhealthy diets are associated with greater aggression and [ETIMES](https://timesofindia.indiatimes.com/life-style/health-fitness/diet/Junk-food-leads-to-anger-issues/articleshow/19946022.cms) corroborates that a nutrient deficiency leaves a person hyperactive towards a stressor. Thus, it is important to analyze the relationship between food deserts and homicide rates as if there are more food deserts, then there will be higher aggression caused by unhealthy diets, possibly leading to more homicides.
