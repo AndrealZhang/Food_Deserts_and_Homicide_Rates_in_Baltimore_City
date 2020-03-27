@@ -5,7 +5,7 @@ What are the socioeconomic factors that affect Baltimore’s high homicide rate,
 
 After researching more about specific conditions in Baltimore, we found that [20% of Baltimore residents live in food deserts](https://www.umaryland.edu/gogreen/news/food/combating-the-urban-food-desert.php). A food desert is roughly defined as a location where there is no access to affordable nutritious foods like fruits, vegetables, and whole grains. Since a high population of Baltimore residents live in food deserts, we narrowed down our question:
 
-Could food deserts be a cause of the high homicide rate in Baltimore?
+Could food deserts be a cause of the high homicide rate in Baltimore and how can policymakers use this information to combat homicide rates?
 
 We analyzed several other factors, including more common factors such as unemployment, for comparison.
 ### Finding
@@ -28,6 +28,7 @@ The need for the government to implement more professional development programs 
 
 The upward sloping trend line emphasizes the fact that the higher the unemployment, the higher the percent of deaths due to homicide rates. In fact, around 56% of the percent of deaths due to homicides can be linked to unemployment, making it crucial for the Baltimore City government to provide assistance. 
 
+Thus, from this data, it is important to realize that food deserts impact homicide rates and that the best way to target the problem of food deserts is for policymakers to implement programs to increase affordability through job programs and discounts.
 
 # Solution
 The government should promote career development programs to help increase employment and increase citizens’ disposable income. Along with these policies, the government needs to promote healthy foods by offering incentives such as discounts. By doing so, healthy foods become more affordable, mitigating the negative impacts of food deserts and ultimately reducing the homicide rate. 
