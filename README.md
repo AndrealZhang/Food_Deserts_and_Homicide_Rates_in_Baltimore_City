@@ -22,6 +22,9 @@ As mentioned earlier, homicides in Baltimore are a deadly problem that is gettin
 As shown in this scatter plot, this upward sloping trend line represents that food deserts and homicides were positively correlated. In fact, around 36% of the percent of deaths due to homicides can be linked to food deserts. Although this number may seem small, it is important to remember that there are multiple factors that can impact homicide rates and one factor affecting around 36% of homicide rates is significant. 
 
 The need for the government to implement more professional development programs in order to give citizens the opportunity for more income also stems from the positive relationship between unemployment and homicide rates.
+![alt_text](https://github.com/AndrealZhang/Food_Deserts_and_Homicide_Rates_in_Baltimore_City/blob/master/unemploymentscatter.png)
+
+The upward sloping trend line emphasizes the fact that the higher the unemployment, the higher the percent of deaths due to homicide rates. In fact, around 56% of the percent of deaths due to homicides can be linked to unemployment, making it crucial for the Baltimore City government to provide assistance. 
 
 
 # Solution
