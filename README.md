@@ -17,6 +17,12 @@ Government promotes programs that helps citizens afford healthy foods → citize
 
 # Significance
 As mentioned earlier, homicides in Baltimore are a deadly problem that is getting worse every year. However, another problem goes undercovered: food deserts. As mentioned earlier, citizens in the food deserts cannot access healthy foods and are forced to consume more unhealthy food options at corner stores and carry out restaurants. Healthy diets are important because they help our bodies to [manage the psychological changes caused by stress](https://www.bbcgoodfood.com/howto/guide/stress-diet-can-foods-help). On the other hand, [The Guardian](https://www.theguardian.com/lifeandstyle/wordofmouth/2013/apr/24/can-food-make-you-angry) notes that greater trans fatty acids from unhealthy diets are associated with greater aggression and [ETIMES](https://timesofindia.indiatimes.com/life-style/health-fitness/diet/Junk-food-leads-to-anger-issues/articleshow/19946022.cms) corroborates that a nutrient deficiency leaves a person hyperactive towards a stressor. Thus, it is important to analyze the relationship between food deserts and homicide rates as if there are more food deserts, then there will be higher aggression caused by unhealthy diets, possibly leading to more homicides.
+![alt_text](https://github.com/AndrealZhang/Food_Deserts_and_Homicide_Rates_in_Baltimore_City/blob/master/fooddesertscatter.png)
+
+As shown in this scatter plot, this upward sloping trend line represents that food deserts and homicides were positively correlated. In fact, around 36% of the percent of deaths due to homicides can be linked to food deserts. Although this number may seem small, it is important to remember that there are multiple factors that can impact homicide rates and one factor affecting around 36% of homicide rates is significant. 
+
+The need for the government to implement more professional development programs in order to give citizens the opportunity for more income also stems from the positive relationship between unemployment and homicide rates.
+
 
 # Solution
 The government should promote career development programs to help increase employment and increase citizens’ disposable income. Along with these policies, the government needs to promote healthy foods by offering incentives such as discounts. By doing so, healthy foods become more affordable, mitigating the negative impacts of food deserts and ultimately reducing the homicide rate. 
