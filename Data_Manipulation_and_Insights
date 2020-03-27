@@ -32,5 +32,9 @@ This information is supported with a scatterplot between vacant lot density and 
 6% of the data can be explained by this model, meaning that vacant lot density does not have a significant effect on 
 homicide rates.
 
-Afterwards, we made two other scatterplots to better visualize the data: % of area covered by food desert vs. % of deaths 
-due to homicide and unemployment and % of deaths due to homicide.
+Afterwards, we made two other scatterplots: % of area covered by food desert vs. % of deaths due to homicide and unemployment
+and % of deaths due to homicide. To better visualize this data, we finally created a Pivot Table with the significant
+variables (unemployment and % of area covered by food desert) and % of deaths due to homicides. From this table, we created
+a Pivot line graph to show that in the neighborhoods in Baltimore in which there are high unemployment and food deserts
+(peaks in the line graph), % of deaths due to homicides also peaks.
+
